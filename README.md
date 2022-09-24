@@ -19,7 +19,7 @@
 - JPEG you can replace with desired image types JPEG/JPG/PNG/GIF/BMP
 - If not type is given then JPEG will be use as default
 - Syntax:
-- - npm run revert
+    - npm run revert
 - - - This will revert webp to jpeg from ./images folder and save to ./reverted folder
 - - npm run revert png
 - - - This will revert webp to png from ./images folder and save to ./reverted folder
